@@ -1,0 +1,214 @@
+[{
+  "_id": {
+    "$oid": "65eeabf4802c336a7f02a2b4"
+  },
+  "title": "In to the Wind",
+  "author": "Robert Frost",
+  "pages": 600,
+  "genres": [
+    "fantasy",
+    "magical"
+  ],
+  "rating": 6
+},
+{
+  "_id": {
+    "$oid": "65eeadd2802c336a7f02a2b6"
+  },
+  "title": "Killers of the flower moon",
+  "author": "Nicole",
+  "pages": 550,
+  "genres": [
+    "drama",
+    "documentry"
+  ],
+  "rating": 8
+},
+{
+  "_id": {
+    "$oid": "65eeadd2802c336a7f02a2b7"
+  },
+  "title": "Aadu jeevitham",
+  "author": "Vikkum muhammed basheer",
+  "pages": 500,
+  "genres": "drama",
+  "rating": 9
+},
+{
+  "_id": {
+    "$oid": "65eeadd2802c336a7f02a2b8"
+  },
+  "title": "All the bright places",
+  "author": "Prof. Chamber",
+  "pages": 450,
+  "genres": [
+    "drama",
+    "romance"
+  ],
+  "rating": 7
+},
+{
+  "_id": {
+    "$oid": "65eeadd2802c336a7f02a2b9"
+  },
+  "title": "The martian",
+  "author": "christian pearce",
+  "pages": 300,
+  "genres": [
+    "drama",
+    "thriller"
+  ],
+  "rating": 9
+},
+{
+  "_id": {
+    "$oid": "65eeb35569da32f89b9f1d8b"
+  },
+  "title": "The color of magic",
+  "author": "roman pearce",
+  "pages": 350,
+  "genres": [
+    "action",
+    "drama"
+  ],
+  "rating": 7
+},
+{
+  "_id": {
+    "$oid": "65eeb56669da32f89b9f1d8d"
+  },
+  "title": "The Light Fantastic",
+  "author": "Terry Pratchett",
+  "pages": 250,
+  "genres": "romance",
+  "rating": 9
+},
+{
+  "_id": {
+    "$oid": "65eeb56669da32f89b9f1d8e"
+  },
+  "title": "Dune",
+  "author": "Frank Herbert",
+  "pages": 750,
+  "rating": 8,
+  "genres": [
+    "sci-fi",
+    "fantasy",
+    "romance"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65eecb6669da32f89b9f1d8f"
+  },
+  "title": "Fighting with my Family",
+  "author": "Sarah",
+  "pages": 650,
+  "genres": [
+    "wwe",
+    "sports"
+  ],
+  "rating": 7,
+  "review": [
+    {
+      "name": "John",
+      "body": "Great book!!"
+    },
+    {
+      "name": "Paul",
+      "body": "Outstanding book!!"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65eecc0a69da32f89b9f1d90"
+  },
+  "title": "Fighting with my Family",
+  "author": "Sarah",
+  "pages": 650,
+  "genres": [
+    "wwe",
+    "sports"
+  ],
+  "rating": 7,
+  "review": [
+    {
+      "name": "John",
+      "body": "Great book!!"
+    },
+    {
+      "name": "Paul",
+      "body": "Outstanding book!!"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65eed2d669da32f89b9f1d91"
+  },
+  "title": "The Man",
+  "author": "Rebecca",
+  "pages": 600,
+  "genres": [
+    "wwe",
+    "sports"
+  ],
+  "rating": 6,
+  "review": [
+    {
+      "name": "Randy",
+      "body": "Great author!!"
+    },
+    {
+      "name": "John",
+      "body": "Blah Blah!!"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65eed2d669da32f89b9f1d92"
+  },
+  "title": "Through the Window",
+  "author": "Gopalan",
+  "pages": 500,
+  "genres": [
+    "romance",
+    "comedy"
+  ],
+  "rating": 6,
+  "review": [
+    {
+      "name": "Iso",
+      "body": "no distractions!!"
+    },
+    {
+      "name": "Chamber",
+      "body": "you want to play, lets play!!"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65eed2d669da32f89b9f1d93"
+  },
+  "title": "Oppenheimer",
+  "author": "Christopher Nolan",
+  "pages": 600,
+  "genres": [
+    "Documentry",
+    "drama"
+  ],
+  "rating": 10,
+  "review": [
+    {
+      "name": "Raze",
+      "body": "Fire!!"
+    },
+    {
+      "name": "Neon",
+      "body": "Im pissed!!"
+    }
+  ]
+}]
